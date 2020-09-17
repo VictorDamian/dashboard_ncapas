@@ -1,0 +1,18 @@
+C:\Users\Dantes\source\repos\DashBoard\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Dantes\source\repos\DashBoard\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Dantes\source\repos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Dantes\source\repos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Dantes\source\repos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaEntidades\obj\Debug\CapaEntidades.pdb

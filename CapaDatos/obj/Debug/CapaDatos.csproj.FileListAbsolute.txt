@@ -1,0 +1,27 @@
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Dantes\source\repos\DashBoard\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\CapaDatos\obj\Debug\CapaDatos.pdb

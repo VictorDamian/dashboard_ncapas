@@ -1,0 +1,51 @@
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\CapaEntidades.dll
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\CapaNegocio.dll
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\CapaEntidades.pdb
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\CapaNegocio.pdb
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\CapaDatos.dll
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\CapaDatos.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\CapaNegocio.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\CapaDatos.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\CapaEntidades.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\CapaNegocio.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\bin\Debug\CapaDatos.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\DashBoard\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\CapaEntidades.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\CapaNegocio.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\CapaDatos.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\CapaEntidades.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\CapaNegocio.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\bin\Debug\CapaDatos.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\DashBoard\DashBoard\obj\Debug\DashBoard.pdb

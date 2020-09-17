@@ -1,0 +1,10 @@
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.Form1.resources
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\Dantes\source\repos\DashBoard\DashBoard\obj\Debug\DashBoard.pdb
